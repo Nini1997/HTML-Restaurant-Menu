@@ -84,3 +84,11 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+<div class="service">
+    <h3>Dine In</h3>
+</div>
+.service {
+    display: inline-block;
+    text-align: center;
+}
